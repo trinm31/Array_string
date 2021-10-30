@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/Array_String.deps.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/Array_String.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/Array_String.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/Array_String.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/ref/Array_String.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/bin/Debug/net5.0/Array_String.pdb
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/ref/Array_String.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.pdb
+/Users/nguyenminhtri/RiderProjects/Array_String/Array_String/obj/Debug/net5.0/Array_String.genruntimeconfig.cache
