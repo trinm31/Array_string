@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/Bai 2.deps.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/Bai 2.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/Bai 2.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/Bai 2.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/ref/Bai 2.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/bin/Debug/net5.0/Bai 2.pdb
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/ref/Bai 2.dll
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.pdb
+/Users/nguyenminhtri/RiderProjects/Array_String/Bai 2/obj/Debug/net5.0/Bai 2.genruntimeconfig.cache

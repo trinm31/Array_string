@@ -183,19 +183,53 @@ namespace Array_String
                     // Console.WriteLine(sum);
                 // 6. Mang nhieu chieu
 
-                int[,] mang = new int[3, 4] { { 1, 2, 3, 4 }, { 0, 3, 1, 3 }, { 4, 2, 3, 4 } };
-
-                for (int i = 0; i < 3; i++)
-                {
-                    for (int j = 0; j < 4; j++)
-                    {
-                        Console.Write(mang[i,j] + " ");
-                    }
-                    Console.WriteLine();
-                }
+                // int[,] mang = new int[3, 4] { { 1, 2, 3, 4 }, { 0, 3, 1, 3 }, { 4, 2, 3, 4 } };
+                //
+                // for (int i = 0; i < 3; i++)
+                // {
+                //     for (int j = 0; j < 4; j++)
+                //     {
+                //         Console.Write(mang[i,j] + " ");
+                //     }
+                //     Console.WriteLine();
+                // }
                 
                 
+                // 7. Mang trong mang
+                // int[] []
 
+                // int[][] myarray = new int[][]
+                // {
+                //     new[] { 1, 2 },
+                //     new[] { 2, 5, 6 },
+                //     new[] { 2, 4 },
+                //     new[] { 4, 5, 6, 7, 8 }
+                // };
+                //
+                // foreach (var arr in myarray)
+                // {
+                //     foreach (var e in arr)
+                //     {
+                //         Console.Write(e + " ");
+                //     }
+                //     Console.WriteLine();
+                // }
+
+                // Chèn phần tử vào mảng trong C# (mảng đã qua sắp xếp)
+                // b1: tạo mảng + thêm phần tử vào mảng
+                // b2: Sắp xếp mảng
+                // b3: nhận vào giá trị cần chèn
+                // b4: chèn vào mảng ban đầu theo thứ tự
+                
+                // Chèn phần tử vào mảng trong C# (mảng không có thứ tự)
+                //
+                // Chương trình C# để xóa phần tử trong mảng
+                //
+                // Tìm phần tử lớn thứ hai trong mảng C#
+                //
+                // Tìm phần tử nhỏ thứ hai trong mảng C#
+                
+                
         }
     }
 }
